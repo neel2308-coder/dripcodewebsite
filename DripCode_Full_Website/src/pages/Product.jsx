@@ -1,0 +1,1 @@
+// Single product detail page

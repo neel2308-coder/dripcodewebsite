@@ -1,0 +1,1 @@
+// Quikink API integration placeholder
